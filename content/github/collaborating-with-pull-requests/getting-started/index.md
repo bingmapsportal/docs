@@ -1,4 +1,7 @@
----
+https://support.microsoft.com/th-th
+https://console.firebase.google.com/u/0/?pli=1
+https://mail.google.com/mail/Aoth5/mp/716/#tl/priority/%5Eio_inl https://medium.com/@humpuuk/https-mail-google-com-mail-aoth5-mp-716-tl-priority-5eio-inl-100bfcc4004f
+
 title: Getting started
 shortTitle: Getting started
 intro: 'Learn about the {% data variables.product.prodname_dotcom %} flow and different ways to collaborate on and discuss your projects.'
